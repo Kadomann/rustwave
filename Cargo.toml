@@ -1,0 +1,39 @@
+[package]
+name = "rustwave"
+version = "0.9.0"
+edition = "2021"
+authors = ["Roman Ewert, DL4RE"]
+description = "SSTV, RTTY, CW, APRS, POCSAG/DAPNET und Packet Radio mit CAT-Steuerung – auch drahtlos über das WLAN des Icom IC-705"
+license = "GPL-3.0-or-later"
+readme = "README.md"
+keywords = ["ham-radio", "sstv", "aprs", "pocsag", "ic-705"]
+categories = ["science", "multimedia::audio"]
+
+[dependencies]
+ab_glyph = "0.2.32"
+chrono = { version = "0.4.45", default-features = false, features = ["clock"] }
+cpal = { version = "0.18.2", default-features = false }
+eframe = { version = "0.33", default-features = false, features = ["glow", "default_fonts", "persistence", "x11"] }
+hound = "3.5.1"
+image = { version = "0.25.10", default-features = false, features = ["jpeg", "png"] }
+rustfft = "6.4.1"
+serde = { version = "1.0.229", features = ["derive"] }
+serde_json = "1.0.154"
+serialport = { version = "4.10.1", default-features = false }
+sgp4 = "2"
+ureq = { version = "2", default-features = false, features = ["tls"] }
+
+[target.'cfg(windows)'.dependencies]
+rfd = "0.18.0"
+windows-core = "0.62"
+windows = { version = "0.62", features = ["Devices_Geolocation", "Foundation", "Win32_System_WinRT", "Win32_System_Com", "Win32_Foundation", "Win32_UI_WindowsAndMessaging", "Win32_System_SystemInformation"] }
+
+[profile.release]
+opt-level = 3
+strip = true
+
+[profile.test]
+opt-level = 3
+
+[build-dependencies]
+embed-resource = "3.0.12"

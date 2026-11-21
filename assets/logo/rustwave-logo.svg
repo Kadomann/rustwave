@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 256" width="1000" height="256">
+  <rect x="8" y="8" width="240" height="240" rx="52" fill="#15181E"/>
+  <rect x="8" y="8" width="240" height="240" rx="52" fill="none" stroke="#2A2F38" stroke-width="4"/>
+  <circle cx="176" cy="80" r="9" fill="#F2A266"/>
+  <g fill="none" stroke="#F2A266" stroke-linecap="round" stroke-width="10">
+    <path d="M 176 54 A 26 26 0 0 1 202 80"/>
+    <path d="M 176 30 A 50 50 0 0 1 226 80" opacity="0.5"/>
+  </g>
+  <path d="M 38.0 156.0 L 39.2 152.9 L 40.4 149.7 L 41.5 146.7 L 42.7 143.6 L 43.9 140.7 L 45.0 137.8 L 46.2 135.1 L 47.4 132.5 L 48.6 130.0 L 49.8 127.7 L 50.9 125.6 L 52.1 123.6 L 53.3 121.9 L 54.5 120.4 L 55.6 119.0 L 56.8 118.0 L 58.0 117.1 L 59.1 116.5 L 60.3 116.1 L 61.5 116.0 L 62.7 116.1 L 63.9 116.5 L 65.0 117.1 L 66.2 118.0 L 67.4 119.0 L 68.5 120.4 L 69.7 121.9 L 70.9 123.6 L 72.1 125.6 L 73.2 127.7 L 74.4 130.0 L 75.6 132.5 L 76.8 135.1 L 78.0 137.8 L 79.1 140.7 L 80.3 143.6 L 81.5 146.7 L 82.7 149.7 L 83.8 152.9 L 85.0 156.0 L 86.2 159.1 L 87.3 162.3 L 88.5 165.3 L 89.7 168.4 L 90.9 171.3 L 92.0 174.2 L 93.2 176.9 L 94.4 179.5 L 95.6 182.0 L 96.8 184.3 L 97.9 186.4 L 99.1 188.4 L 100.3 190.1 L 101.5 191.6 L 102.6 193.0 L 103.8 194.0 L 105.0 194.9 L 106.2 195.5 L 107.3 195.9 L 108.5 196.0 L 109.7 195.9 L 110.8 195.5 L 112.0 194.9 L 113.2 194.0 L 114.4 193.0 L 115.5 191.6 L 116.7 190.1 L 117.9 188.4 L 119.1 186.4 L 120.2 184.3 L 121.4 182.0 L 122.6 179.5 L 123.8 176.9 L 125.0 174.2 L 126.1 171.3 L 127.3 168.4 L 128.5 165.3 L 129.7 162.3 L 130.8 159.1 L 132.0 156.0 L 132.0 116 L 167.8 116 L 167.8 196 L 203.7 196 L 203.7 156 L 218 156" fill="none" stroke="#E5671B" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="286" y="160" font-family="DejaVu Sans" font-weight="bold" font-size="112"><tspan fill="#E5671B">RUST</tspan><tspan fill="#E8E6E1">WAVE</tspan></text>
+  <text x="290" y="208" font-family="DejaVu Sans" font-size="29" fill="#8A8F98" letter-spacing="4">SSTV · RTTY · CW · APRS</text>
+</svg>

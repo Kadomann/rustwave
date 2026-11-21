@@ -1,0 +1,7 @@
+/target
+/out
+*.wav
+*.raw
+!assets/**
+.DS_Store
+Thumbs.db

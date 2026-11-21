@@ -1,0 +1,385 @@
+# DAPNET-Rubriken nach https://pi-star.de/liste-aller-rubiken-im-dapnet/ (Stand 20.11.2026, 383 Zeilen)
+# Nummer|Name|Bezeichnung|Sendergruppe – RIC für AlphaPoc/Swissphone = 1000 + Nummer, Skyper: RIC 4520
+1|dapnetnews|DAPNET NEWS|all
+4|dx-kw|DX KW|dxclusters
+5|dx-vhf uhf|DX 144/430|dxclusters
+6|dx-50mhz|DX 50/70|dxclusters
+7|dx shf|DX SHF|dxclusters
+8|dx-kwcw|DX KW-CW|dxclusters
+9|dxcond|Conditions|dxclusters
+10|dx-digi|DX Digimode|dxclusters
+11|dl-be|Berlin|dl-all
+11|oe-oe1|Wien|oe-all
+11|pa-noord|PA Noord|pa-all
+11|uk-safe-sw|uk-safe-sw|uk-all
+12|dl-bw|Baden-Wuert|dl-all
+12|oe-oe2|Salzburg|oe-all
+12|uk-safe-ee|uk-safe-ee|uk-all
+13|dl-by|Bayern|dl-all
+13|oe-oe3|Niederöst.|oe-all
+13|uk-safe-em|uk-safe-em|uk-all
+14|dl-hb|Bremen|dl-all
+14|oe-oe4|Burgenland|oe-all
+14|uk-safe-wm|uk-safe-wm|uk-all
+15|dl-he|Hessen|dl-all
+15|oe-oe5|Oberösterr.|oe-all
+15|uk-safe-yh|uk-safe-yh|uk-all
+16|dl-hh|Hamburg|dl-all
+16|oe-oe6|Steiermark|oe-all
+16|uk-safe-ne|uk-safe-ne|uk-all
+17|dl-mv|Mecklenburg|dl-all
+17|oe-oe7|Tirol|oe-all
+17|uk-safe-nw|uk-safe-nw|uk-all
+18|dl-ni|Niedersachs|dl-all
+18|oe-oe8|Kärnten|oe-all
+18|uk-safe-wl|uk-safe-wl|uk-all
+19|dl-nw|Nordrhein-W|dl-all
+19|oe-oe9|Vorarlberg|oe-all
+19|uk-safe-ni|uk-safe-ni|uk-all
+20|dl-rp|Rheinland-P|dl-all
+20|uk-safe-dg|uk-safe-dg|uk-all
+21|dl-sh|Schleswig-H|dl-all
+21|uk-safe-ta|uk-safe-ta|uk-all
+22|dl-sl|Saarland|dl-all
+22|uk-safe-st|uk-safe-st|uk-all
+23|dl-sn|Sachsen|dl-all
+23|uk-safe-gr|uk-safe-gr|uk-all
+24|dl-st|Sachsen-Anh|dl-all
+24|uk-safe-he|uk-safe-he|uk-all
+25|dl-th|Thueringen|dl-all
+25|uk-safe-os|uk-safe-os|uk-all
+26|dl-bb|Brandenburg|dl-all
+26|uk-safe-se|uk-safe-se|uk-all
+26|urgent-grup|Romania 226|yo-all
+27|hb9-news|HB9-News|hb-all
+27|oe-msg|oe-msg|oe-all
+27|oe-msg|oe-msg|oe-hamnet
+27|on-news|ON-NEWS|on-all
+27|pa-news|PA-NEWS|pa-all
+27|rl-lx|RLX-News|lx-all
+27|uknews|uknews|uk-all
+27|ysf-news|YSF-France|ysf-france
+28|clubnews|Club-News|hb-all
+30|relais144bb|Relais 2m|dl-bb
+30|relais144be|Relais 2m|dl-be
+30|relais144ni|Relais 2m|dl-ni
+30|relais144nw|Relais 2m|dl-nw
+30|relais144oe1|Relais 2m|oe-oe1
+30|relais144oe2|Relais 2m|oe-oe2
+30|relais144oe3|Relais 2m|oe-oe3
+30|relais144oe4|Relais 2m|oe-oe4
+30|relais144oe5|Relais 2m|oe-oe5
+30|relais144oe6|Relais 2m|oe-oe6
+30|relais144oe7|Relais 2m|oe-oe7
+30|relais144oe8|Relais 2m|oe-oe8
+30|relais144oe9|Relais 2m|oe-oe9
+30|relais144sl|Relais 2m|dl-sl
+30|relais144st|Relais 2m|dl-bb
+30|relais144st|Relais 2m|dl-mv
+30|relais144st|Relais 2m|dl-st
+30|sp-repeaters|Repeaters|sp-all
+31|relais430bb|Relais 70cm|dl-bb
+31|relais430be|Relais 70cm|dl-be
+31|relais430ni|Relais 70cm|dl-ni
+31|relais430nw|Relais 70cm|dl-nw
+31|relais430oe1|Relais 70cm|oe-oe1
+31|relais430oe2|Relais 70cm|oe-oe2
+31|relais430oe3|Relais 70cm|oe-oe3
+31|relais430oe4|Relais 70cm|oe-oe4
+31|relais430oe5|Relais 70cm|oe-oe5
+31|relais430oe6|Relais 70cm|oe-oe6
+31|relais430oe7|Relais 70cm|oe-oe7
+31|relais430oe8|Relais 70cm|oe-oe8
+31|relais430oe9|Relais 70cm|oe-oe9
+31|relais430sl|Relais 70cm|dl-sl
+31|relais430st|Relais 70cm|dl-bb
+31|relais430st|Relais 70cm|dl-mv
+31|relais430st|Relais 70cm|dl-st
+32|relais1270bb|Relais 23cm|dl-bb
+32|relais1270be|Relais 23cm|dl-be
+32|relais1270nw|Relais 23cm|dl-nw
+32|relais1270oe1|Relais 23cm|oe-oe1
+32|relais1270oe2|Relais 23cm|oe-oe2
+32|relais1270oe3|Relais 23cm|oe-oe3
+32|relais1270oe4|Relais 23cm|oe-oe4
+32|relais1270oe5|Relais 23cm|oe-oe5
+32|relais1270oe6|Relais 23cm|oe-oe6
+32|relais1270oe7|Relais 23cm|oe-oe7
+32|relais1270oe8|Relais 23cm|oe-oe8
+32|relais1270oe9|Relais 23cm|oe-oe9
+32|relais1270sl|Relais 23cm|dl-sl
+32|relais1270st|Relais 23cm|dl-st
+33|relaisdmrbb|Relais DMR|dl-bb
+33|relaisdmrbe|Relais DMR|dl-be
+33|relaisdmrnw|Relais DMR|dl-nw
+33|relaisdmroe1|Relais DMR|oe-oe1
+33|relaisdmroe2|Relais DMR|oe-oe2
+33|relaisdmroe3|Relais DMR|oe-oe3
+33|relaisdmroe4|Relais DMR|oe-oe4
+33|relaisdmroe5|Relais DMR|oe-oe5
+33|relaisdmroe6|Relais DMR|oe-oe6
+33|relaisdmroe7|Relais DMR|oe-oe7
+33|relaisdmroe8|Relais DMR|oe-oe8
+33|relaisdmroe9|Relais DMR|oe-oe9
+33|relaisdmrsl|Relais DMR|dl-sl
+33|relaisdmrst|Relais DMR|dl-bb
+33|relaisdmrst|Relais DMR|dl-mv
+33|relaisdmrst|Relais DMR|dl-st
+34|digis-dl-bb|Digipeater|dl-bb
+34|digis-dl-be|Digipeater|dl-be
+40|emcommnl|EmComm-NL|pa-all
+40|emergency-lx|EmergencyLX|lx-all
+40|f-emcom|F-EMCOM|f-all
+40|notfunk|Notfunk|dl-all
+40|notfunk-oe|Notfunk|oe-notfunk
+40|notfunk-oe9|Notfunk|oe-oe9
+41|katwarn-oe1|Katwarn|oe-oe1
+41|katwarn-oe2|Katwarn|oe-oe2
+41|katwarn-oe3|Katwarn|oe-oe3
+41|katwarn-oe4|Katwarn|oe-oe4
+41|katwarn-oe5|Katwarn|oe-oe5
+41|katwarn-oe6|Katwarn|oe-oe6
+41|katwarn-oe7|Katwarn|oe-oe7
+41|katwarn-oe8|Katwarn|oe-oe8
+41|katwarn-oe9|Katwarn|oe-oe9
+41|mowas|mowas-dl|dl-all
+42|notfunk-b|NKF Franken|dl-by-mittelfranken
+42|notfunk-b|NKF Franken|dl-by-oberfranken
+42|notfunk-b|NKF Franken|dl-by-unterfranken
+42|notfunk-by|NKF Bayern|dl-by
+42|notfunk-h|Notfunk-Lok|dl-hb
+42|notfunk-h|Notfunk-Lok|dl-ni
+42|notfunk-p|Notfunk-Lok|dl-bw
+43|dl-all-goe-notfunk|GOE Notfunk|dl-all
+44|dl-all-hamnet|HAMNET|dl-all
+45|spots-all|Alle Spots|dxclusters
+46|spots-sota|Spots SOTA|dxclusters
+47|spots-gma|Spots GMA|dxclusters
+48|spots-iota|Spots IOTA|dxclusters
+49|spots-wwff|Spots WWFF|dxclusters
+50|spots-cota|Spots COTA|dxclusters
+51|sat|Satelliten|dl-all
+51|sat|Satelliten|f-all
+51|sat|Satelliten|hb-all
+51|sat|Satelliten|oe-all
+51|sat|Satelliten|on-all
+51|sat|Satelliten|pa-all
+52|swissdmr-d|SWISSDMR-D|dl-bw
+52|swissdmr-d|SWISSDMR-D|hb-02
+52|swissdmr-d|SWISSDMR-D|hb-03
+52|swissdmr-d|SWISSDMR-D|hb-04
+52|swissdmr-d|SWISSDMR-D|hb-05
+52|swissdmr-d|SWISSDMR-D|hb-06
+52|swissdmr-d|SWISSDMR-D|hb-all
+52|swissdmr-f|SWISSDMR-F|hb-01
+52|swissdmr-f|SWISSDMR-F|hb-02
+52|swissdmr-i|SWISSDMR-I|hb-07
+59|null-test|NULL-TEST|null
+59|pa-test|pa-test|pa-all
+59|test-dl|Test-DL|dl-all
+60|stats|Statistiken|all
+61|pegel-bb|Pegel-Lokal|dl-bb
+61|pegel-be|Pegel-Lokal|dl-be
+61|pegel-bw|Pegel-Lokal|dl-bw
+61|pegel-by|Pegel-Lokal|dl-by
+61|pegel-hb|Pegel-Lokal|dl-hb
+61|pegel-he|Pegel-Lokal|dl-he
+61|pegel-hh|Pegel-Lokal|dl-hh
+61|pegel-mv|Pegel-Lokal|dl-mv
+61|pegel-ni|Pegel-Lokal|dl-ni
+61|pegel-nw|Pegel-Lokal|dl-nw
+61|pegel-oe1|Pegel-Lokal|oe-oe1
+61|pegel-oe2|Pegel-Lokal|oe-oe2
+61|pegel-oe3|Pegel-Lokal|oe-oe3
+61|pegel-oe4|Pegel-Lokal|oe-oe4
+61|pegel-oe5|Pegel-Lokal|oe-oe5
+61|pegel-oe6|Pegel-Lokal|oe-oe6
+61|pegel-oe7|Pegel-Lokal|oe-oe7
+61|pegel-oe8|Pegel-Lokal|oe-oe8
+61|pegel-oe9|Pegel-Lokal|oe-oe9
+61|pegel-rp|Pegel-Lokal|dl-rp
+61|pegel-sh|Pegel-Lokal|dl-sh
+61|pegel-sl|Pegel-Lokal|dl-sl
+61|pegel-sn|Pegel-Lokal|dl-sn
+61|pegel-st|Pegel-Lokal|dl-st
+61|pegel-th|Pegel-Lokal|dl-th
+62|metar-dl|METAR DL|dl-all
+63|metar-dl-bw|METAR-Lokal|dl-bw
+63|metar-dl-ni|METAR-Lokal|dl-ni
+63|metar-dl-nw|METAR-Lokal|dl-nw
+63|metar-dl-rp|METAR-Lokal|dl-rp
+64|wetter-dl-nord|WX-Lokal|dl-hb
+64|wetter-dl-nord|WX-Lokal|dl-ni
+64|wetter-dl-nord|WX-Lokal|dl-sh
+64|wetter-dl-sued|WX-Lokal|dl-bw
+64|wetter-dl-sued|WX-Lokal|dl-by
+64|wetter-nw|WX-Lokal|dl-nw
+64|wetter-sl|WX-Lokal|dl-sl
+65|afunewsregionowl|OWL|dl-nw
+65|ov-x06-news|F X06 News|dl-th
+65|uk-suffolk|uk-suffolk|uk-all
+66|adl-111|A1-AFU|oe-all
+66|adl-111|A1-AFU|oe-hamnet
+66|afu-nord|AFU-NORD|dl-sh
+66|dl-he-o-info|HE-Ost-Info|dl-he
+66|dl0khz-a07|OV Info A07|dl-bw
+66|dl0khz-a07|OV Info A07|dl-bw-karlsruhe
+66|ovb11|OV B11|dl-by
+66|ovb11|OV B11|dl-by-mittelfranken
+66|uk-sussex|UK-Sussex|uk-all
+67|db0ldh|db0ldh|dl-he
+67|dl-suedholstein|Südholstein|dl-hh
+67|dl-suedholstein|Südholstein|dl-mv
+67|dl-suedholstein|Südholstein|dl-ni
+67|dl-suedholstein|Südholstein|dl-sh
+67|funkfreundelandshut|FFL|dl-by-niederbayern
+68|dl-by-afu-wue|AFU Wue|dl-by
+68|dl-he-ks-info|Kassel-Info|dl-he
+68|f-ra-loire|F-RA-LOIRE|f-all
+68|ogeminfo|OG EM INFO|dl-bw-freiburg
+68|ovi12|OV I12|dl-all
+69|odl|ODL|dl-all
+70|odl-bw|ODL Lokal|dl-bw
+70|odl-nw|ODL Lokal|dl-nw
+71|db0ldk-f19|OV Info F19|dl-he-giessen
+71|db0zka-t01|OV Info T01|dl-by
+71|hb9vdnetwork|HB9VD News|hb-01
+71|igfs|IGFS Info|dl-nw
+71|ovf73|OV Info F73|dl-he
+72|db0iga|db0iga|dl-nw
+72|db0ldk-f07|OV Info F07|dl-he-giessen
+72|h66|OV-H66|dl-ni
+72|hb9dc-club|HB9DC Club|hb-all
+73|db0fs-db0ze|NDR BSG-Afu|dl-sh
+73|dk0tu|DK0TU|dl-be
+73|f06|OV-Fulda|dl-he
+74|hamnet-bb|Hamnet BB|dl-bb
+74|hamnet-be|Hamnet BE|dl-be
+74|hamnet-hamburg|HAMNET.hamb|dl-sh
+74|hamnet-oe9|Hamnet OE9|oe-oe9
+74|hochrhein|Hochrhein|dl-bw
+74|rwth-afu|RWTH-AFU|dl-nw
+75|db0koeinfos|DB0KOE Inf|dl-nw-koeln
+75|db0ldk-info|DB0LDK Info|dl-he-giessen
+75|hamnet-sh|HAMNET.sh|dl-sh
+76|db0mgh|DB0MGH Info|dl-bw
+76|db0mgh|DB0MGH Info|dl-by
+76|r09|R09|dl-nw
+77|db0ko|DB0KO-ATV|dl-nw
+78|as64643|AS64643|dl-ni
+79|afu petersberg|AFU Petersb|dl-he
+80|aprswx-dl-bb|APRS-WX|dl-bb
+80|aprswx-dl-be|APRS-WX|dl-be
+80|aprswx-dl-bw|APRS-WX|dl-bw
+80|aprswx-dl-by|APRS-WX|dl-by
+80|aprswx-dl-hb|APRS-WX|dl-hb
+80|aprswx-dl-he|APRS-WX|dl-he
+80|aprswx-dl-hh|APRS-WX|dl-hh
+80|aprswx-dl-mv|APRS-WX|dl-mv
+80|aprswx-dl-ni|APRS-WX|dl-ni
+80|aprswx-dl-nw|APRS-WX|dl-nw
+80|aprswx-dl-rp|APRS-WX|dl-rp
+80|aprswx-dl-sh|APRS-WX|dl-sh
+80|aprswx-dl-sl|APRX-WX|dl-sl
+80|aprswx-dl-sn|APRS-WX|dl-sn
+80|aprswx-dl-st|APRS-WX|dl-st
+80|aprswx-dl-th|APRS-WX|dl-th
+80|aprswx-f-01|APRS-WX|f-01
+80|aprswx-f-02|APRS-WX|f-02
+80|aprswx-f-03|APRS-WX|f-03
+80|aprswx-f-04|APRS-WX|f-04
+80|aprswx-f-06|APRS-WX|f-06
+80|aprswx-f-11|APRS-WX|f-11
+80|aprswx-f-24|APRS-WX|f-24
+80|aprswx-f-27|APRS-WX|f-27
+80|aprswx-f-28|APRS-WX|f-28
+80|aprswx-f-32|APRS-WX|f-32
+80|aprswx-f-44|APRS-WX|f-44
+80|aprswx-f-52|APRS-WX|f-52
+80|aprswx-f-53|APRS-WX|f-53
+80|aprswx-f-75|APRS-WX|f-75
+80|aprswx-f-76|APRS-WX|f-76
+80|aprswx-f-84|APRS-WX|f-84
+80|aprswx-f-93|APRS-WX|f-93
+80|aprswx-f-94|APRS-WX|f-94
+80|aprswx-f-com|APRS-WX|f-com
+80|aprswx-hb-01|APRS-WX|hb-01
+80|aprswx-hb-02|APRS-WX|hb-02
+80|aprswx-hb-03|APRS-WX|hb-03
+80|aprswx-hb-04|APRS-WX|hb-04
+80|aprswx-hb-05|APRS-WX|hb-05
+80|aprswx-hb-06|APRS-WX|hb-06
+80|aprswx-hb-07|APRS-WX|hb-07
+80|aprswx-lx|APRS-WX|lx-all
+80|aprswx-oe-oe1|APRS-WX|oe-oe1
+80|aprswx-oe-oe2|APRS-WX|oe-oe2
+80|aprswx-oe-oe3|APRS-WX|oe-oe3
+80|aprswx-oe-oe4|APRS-WX|oe-oe4
+80|aprswx-oe-oe5|APRS-WX|oe-oe5
+80|aprswx-oe-oe6|APRS-WX|oe-oe6
+80|aprswx-oe-oe7|APRS-WX|oe-oe7
+80|aprswx-oe-oe8|APRS-WX|oe-oe8
+80|aprswx-oe-oe9|APRS-WX|oe-oe9
+80|aprswx-pa-gr|APRS-WX|pa-gr
+80|aprswx-pa-lb|APRS-WX|pa-lb
+80|aprswx-us-ca-ven|APRS-WX|us-ca-ven
+80|aprswx-us-in-ham|APRS-WX|us-in-ham
+80|aprswx-us-sc-sc|APRS-WX|us-sc-sc
+80|aprswx-vk-nsw|APRS-WX|vk-nsw
+80|aprswx-vk-nt|APRS-WX|vk-nt
+80|aprswx-vk-qld|APRS-WX|vk-qld
+80|aprswx-vk-sa|APRS-WX|vk-sa
+80|aprswx-vk-tas|APRS-WX|vk-tas
+80|aprswx-vk-vic|APRS-WX|vk-vic
+80|aprswx-vk-wa|APRS-WX|vk-wa
+81|bomwarnings-nsw|BoM-Warning|vk-nsw
+81|bomwarnings-nt|BoM-Warning|vk-nt
+81|bomwarnings-qld|BoM-Warning|vk-qld
+81|bomwarnings-sa|BoM-Warning|vk-sa
+81|bomwarnings-tas|BoM-Warning|vk-tas
+81|bomwarnings-vic|BoM-Warning|vk-vic
+81|bomwarnings-wa|BoM-Warning|vk-wa
+81|dwdalerts-bb|DWD-Alerts|dl-bb
+81|dwdalerts-be|DWD-Alerts|dl-be
+81|dwdalerts-bw|DWD-Alerts|dl-bw
+81|dwdalerts-by|DWD-Alerts|dl-by
+81|dwdalerts-hb|DWD-Alerts|dl-hb
+81|dwdalerts-he|DWD-Alerts|dl-he
+81|dwdalerts-hh|DWD-Alerts|dl-hh
+81|dwdalerts-mv|DWD-Alerts|dl-mv
+81|dwdalerts-ni|DWD-Alerts|dl-ni
+81|dwdalerts-nw|DWD-Alerts|dl-nw
+81|dwdalerts-rp|DWD-Alerts|dl-rp
+81|dwdalerts-sh|DWD-Alerts|dl-sh
+81|dwdalerts-sl|DWD-Alerts|dl-sl
+81|dwdalerts-sn|DWD-Alerts|dl-sn
+81|dwdalerts-st|DWD-Alerts|dl-st
+81|dwdalerts-th|DWD-Alerts|dl-th
+81|f-vigilance|F-VIGILANCE|f-all
+81|zamg-oe1|ZAMG Warn|oe-oe1
+81|zamg-oe2|ZAMG Warn|oe-oe2
+81|zamg-oe3|ZAMG Warn|oe-oe3
+81|zamg-oe4|ZAMG Warn|oe-oe4
+81|zamg-oe5|ZAMG Warn|oe-oe5
+81|zamg-oe6|ZAMG Warn|oe-oe6
+81|zamg-oe7|ZAMG Warn|oe-oe7
+81|zamg-oe8|ZAMG Warn|oe-oe8
+81|zamg-oe9|ZAMG Warn|oe-oe9
+82|hilfsorganisationen|HiOrg|dl-all
+82|hilfsorganisationen|HiOrg|oe-all
+83|partic-matter-dl-bb|Feinstaub|dl-bb
+83|partic-matter-dl-be|Feinstaub|dl-be
+83|partic-matter-dl-bw|Feinstaub|dl-bw
+83|partic-matter-dl-by|Feinstaub|dl-by
+83|partic-matter-dl-hb|Feinstaub|dl-hb
+83|partic-matter-dl-he|Feinstaub|dl-he
+83|partic-matter-dl-hh|Feinstaub|dl-hh
+83|partic-matter-dl-mv|Feinstaub|dl-mv
+83|partic-matter-dl-ni|Feinstaub|dl-ni
+83|partic-matter-dl-nw|Feinstaub|dl-nw
+83|partic-matter-dl-rp|Feinstaub|dl-rp
+83|partic-matter-dl-sh|Feinstaub|dl-sh
+83|partic-matter-dl-sl|Feinstaub|dl-sl
+83|partic-matter-dl-sn|Feinstaub|dl-sn
+83|partic-matter-dl-st|Feinstaub|dl-st
+83|partic-matter-dl-th|Feinstaub|dl-th
