@@ -37,7 +37,7 @@ Einrichtung Schritt für Schritt: **[docs/IC-705-WLAN.md](docs/IC-705-WLAN.md)**
 
 | Bereich | Was Rustwave kann |
 |---|---|
-| **SSTV** | 23 Modi (Martin, Scottie, Robot, PD, Wraase, Pasokon, S/W), Senden und Empfang mit VIS-Erkennung und Slant-Korrektur, Vorlagen-Editor mit QSO-Makros, Bild im Bild, FSKID wie MMSSTV, Galerie |
+| **SSTV** | 23 Modi (Martin, Scottie, Robot, PD, Wraase, Pasokon, S/W), Senden und Empfang mit VIS-Erkennung, Slant-Korrektur und Verstimmungsausgleich, rauschfester Dekoder (Bilder bis etwa −1 dB Störabstand), Vorlagen-Editor mit QSO-Makros, Bild im Bild, FSKID wie MMSSTV, Galerie |
 | **RTTY / CW** | Baudot 45,45/50/75 Bd; CW-Empfang 5–60 WpM mit Skimmer (bis 10 Signale gleichzeitig), CW-Senden |
 | **APRS** | 1200 Bd UKW und 300 Bd KW, Karte mit Spuren und Funkwegen, Stationskarte mit Kompassrose, Wetter (gegliedert, mit Verlauf), Telemetrie, Mic-E, Objekte, Nachrichten, Bulletins, iGate, SmartBeaconing mit GPS, Hinweise/Alarme, Abfragen, GPX/KML-Export, KW-Skimmer |
 | **POCSAG / DAPNET** | 512/1200/2400 Bd mit allen Ausgabemodi von multimon-ng, Fehlerkorrektur, DAPNET-Ansicht mit Rubriken (Liste von pi-star.de), Skyper-Entschlüsselung, Zeitsignale/Dienst-RICs ausblendbar, gehörte Sender mit Pegel, Ruf ins Netz über hampager.de, Betrieb als DAPNET-Sender (UniPager-Protokoll) |

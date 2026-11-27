@@ -1,5 +1,14 @@
 # Änderungen
 
+## 0.9.1 – 2026-11-27
+
+### SSTV
+- Dekoder deutlich robuster gegen Rauschen: Bilder kommen in der Simulation bis etwa −1 bis −2 dB Störabstand (2,4-kHz-Band) vollständig an, bisher war bei etwa +5 dB Schluss. Bei mittlerem Rauschen ist das Bild sichtbar ruhiger (PSNR +1,5 bis +2,5 dB).
+- Phasendiskriminator mit 0,7 ms Verzögerung und Mittelung je Pixel statt geklemmter Momentanfrequenz: keine Klicks, kein Kontrastverlust im Rauschen
+- VIS-Erkennung: Feinlage über das ganze Bitmuster, unsichere Bits werden verworfen, Verstimmung bis ±120 Hz wird gemessen und im Bild ausgeglichen
+- Sync: beide Flanken ausgewertet, Zeilendauer mit Vorwissen geschätzt (wenige verrauschte Syncs kippen das Bild nicht mehr schräg), Wiedereinrasten auch bei schwachem Sync
+- Neuer Messstand `cargo test --release sstv_rauschen -- --ignored --nocapture` und Test gegen Fehlstarts bei bandbegrenztem Rauschen
+
 ## 0.9.0 – 2026-11-21
 
 Erste öffentliche Version. Gegenüber dem Ausgangsstand (früher „SSTV Station“, SSTV/RTTY/CW/APRS mit CAT und IC-705 über WLAN) neu:

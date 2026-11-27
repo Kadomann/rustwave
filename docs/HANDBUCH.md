@@ -32,6 +32,8 @@ Einmalig unter **Einstellungen** (Menü oder Strg+,) einstellen. Beim ersten Sta
 
 Die Vorschau zeigt immer genau das Bild, das gesendet wird, mit den aktuellen QSO-Daten. Unter der Vorschau liegen alle Vorlagen als **freie Ablage**. Ein Klick wählt eine Vorlage, auch außerhalb der Reihenfolge.
 Ein empfangenes Bild wird automatisch zum **Bild im Bild** für die Rapport-Vorlage. Ein Klick auf ein anderes Galeriebild wählt dieses, ein Rechtsklick öffnet die Datei. Ein ins Fenster gezogenes Foto wird zum Sendefoto.
+**Empfang im Rauschen:** Der SSTV-Dekoder mittelt die Frequenz je Pixel über einen Phasendiskriminator, dessen Verzögerung so gewählt ist, dass Rauschen die Werte nicht zur Bandmitte zieht und keine Knackstörungen entstehen. Die VIS-Kennung wird über das ganze Bitmuster eingepasst, unsichere Bits werden verworfen statt geraten. Eine Verstimmung bis etwa ±120 Hz misst Rustwave am VIS-Vorton und gleicht sie im Bild aus. Fehlen Sync-Impulse, läuft die Zeilenzählung mit der Nenndauer weiter; nach einem Aussetzer rastet der Dekoder wieder ein, wenn drei Zeilen in Folge denselben Versatz zeigen. In Simulationen mit Rauschen im 2,4-kHz-Band werden Bilder bis etwa −1 bis −2 dB Störabstand noch vollständig empfangen (vorher Schluss bei etwa +5 dB). Reines Rauschen löst keinen Bildstart aus.
+
 **FSKID:** Wie bei MMSSTV wird nach jedem Bild das eigene Rufzeichen als kurze FSK-Kennung angehängt (abschaltbar mit *FSKID senden*). Empfangene FSKIDs (auch von MMSSTV) landen automatisch in der QSO-Leiste, wenn dort noch kein Rufzeichen steht.
 
 ### RTTY
